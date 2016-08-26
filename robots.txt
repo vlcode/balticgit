@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: http://baltic-center.eu/sitemap.xml
+Host: baltic-center.eu
