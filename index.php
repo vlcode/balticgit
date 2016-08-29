@@ -3,12 +3,12 @@
 <head>
         <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="Обучение за рубежом вполне реально! Балтийский Центр одна из ведущих фирм в области образование за рубежом. Учеба за рубежом это гарантия качества и грамотная инвестиция.">
-    <meta name="keywords" content="Обучение за рубежом, образование за рубежом, учеба за рубежом">
+    <meta name="description" content="Вы можете узнать о возможностях получения высшего образование за рубежом, ознакомиться с ценами на обучение и учебными программами зарубежных вузов">
+    <meta name="keywords" content="обучение за рубежом, образование за рубежом, учеба за границей, учеба за рубежом, обучение за рубежом, высшее образование за рубежом, высшее образование за границей">
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
 
-    <title>Baltic Center - Обучение и образование за рубежом.</title>
+    <title>Обучение за рубежом вполне реально вместе с Baltic Center</title>
 
 
 
@@ -42,6 +42,7 @@
 </head>
 <body>
 
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
     (function (d, w, c) {
@@ -71,6 +72,7 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/36592180" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
 
 <?php require 'blocks/header.php'; ?>
 
@@ -143,20 +145,20 @@
       <div class="container descriptions-3">
           <div class="row">
               <div class="col-sm-4">
-                  <a href="universities.php"><img src="img/university.png" alt="Зарубежные университеты" class="img-rounded hvr-float-shadow"></a>
+                  <a href="universities.php"><img src="img/university.png" alt="Зарубежные университеты" title="Зарубежные университеты" class="img-rounded hvr-float-shadow"></a>
                   <a href="universities.php"><span class="description hvr-underline-from-left">Университеты</span></a>
                   <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, beatae, ut. Aut temporibus enim quod facilis a quia, culpa odio autem nesciunt excepturi eum ipsam dolores. Ipsam doloribus eaque corporis?</p> -->
               </div>
 
               <div class="col-sm-4">
-                  <a href="granti.php"><img src="img/grants.png" alt="Гранты на обучение" class="img-rounded hvr-float-shadow"></a>
+                  <a href="granti.php"><img src="img/grants.png" alt="Гранты на обучение за границей" title="Гранты на обучение" class="img-rounded hvr-float-shadow"></a>
                   <a href="granti.php"><span class="description hvr-underline-from-left">Гранты</span></a>
                   <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, beatae, ut. Aut temporibus enim quod facilis a quia, culpa odio autem nesciunt excepturi eum ipsam dolores. Ipsam doloribus eaque corporis?</p> -->
 
               </div>
 
               <div class="col-sm-4">
-                  <a href="pribaltic.php"><img src="img/baltics.png" alt="Прибалтика" class="img-rounded hvr-float-shadow"></a>
+                  <a href="pribaltic.php"><img src="img/baltics.png" alt="Прибалтика" title="О Прибалтике" class="img-rounded hvr-float-shadow"></a>
                   <a href="pribaltic.php"><span class="description hvr-underline-from-left">О прибалтике</span></a>
                   <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, beatae, ut. Aut temporibus enim quod facilis a quia, culpa odio autem nesciunt excepturi eum ipsam dolores. Ipsam doloribus eaque corporis?</p> -->
 
@@ -175,27 +177,26 @@
               <div class="col-sm-8">
                   <h1>Обучение за рубежом, мечта или реальность?</h1>
 
-                  <p>Образование – долгосрочная инвестиция в Ваше будущее, поэтому к вопросу выбора университета нужно подходить с полной серьезностью. На этом этапе большинство отдают предпочтение обучению за рубежом и не спроста!</p>
+                  <p>Образование - долгосрочная инвестиция в Ваше будущее! По данной причине, выбор учебного заведения является главным вопросом к которому нужно
+                    подходить с полной серьезностью. На данном этапе рекомендуется отдать свое предпочтение обучению за рубежом и не спроста.</p>
 
-                  <p>Обучение за рубежом – гарантия того, что Вы получите актуальные и современные знания, построите успешную карьеру и будете востребованы на рынке труда. Это далеко не все преимущества обучения за рубежом! В добавок к этому, обучаясь за рубежом Вы сможете:</p>
+                  <p><b>Обучение за рубежом</b> - не просто показатель престижа, это гарантия того, что Вы получите актуальные и современные знания, будете востребованы на рынке труда и
+                      сможете построить успешную карьеру. Также у Вас будет возможность улучшить навыки иностранного языка, расширить свой кругозор, завести новые, интересные и полезные
+                      знакомства и увидеть мир.</p>
 
-                  <ul>
-                      <li>Улучшить навыки иностранного языка;</li>
-                      <li>Расширить мировоззрение;</li>
-                      <li>Завести новые интересные и полезные знакомства;</li>
-                      <li>Увидеть мир.</li>
-                  </ul>
+                  <p>Зарубежные университеты откроют вам доступ к последним образовательным и культурным ресурсам, помогут освоить бесценные знания и навыки, разовьют в Вас чувство
+самостоятельности в принятие решений и самое главное предоставят вам диплом признанный во всем мире, что повысит ваши шансы на трудоустройство!</p>
 
-                  <p>Зарубежные университеты предоставят доступ к образовательным и культурным ресурсам, помогут освоить бесценные знания и навыки, развить чувство самостоятельности в принятии решений, а самое главное диплом, признанный во всем мире повысит шанс трудоустройства!</p>
-
-                  <p>Многим может показаться, что обучение за рубежом дорогостоящее и поступить в зарубежный университет тяжело. Это распространенное заблуждение. Университеты всего мира пытаются привлечь студентов со всех уголков земли, для подготовки высококвалифицированных специалистов. Ежегодно открываются новые учебные программы на английском языке, часть которых бесплатны или существует возможность получить грант или скидку.</p>
+                  <p>Многим покажется, что обучение за рубежом дорогостоящая перспектива и шансы на поступление малы. Это распространенное заблуждение! Ежегодно, университеты
+                     открывают новые учебные программы на английском и русском языках, разыгрывают гранты и стипендии, покрывающие расходы на обучение и упрощают процедуру поступления, что
+                     открывает двери перед всеми желающими обучаться за рубежом!</p>
 
               </div>
 
               <div class="col-sm-4">
-                  <img src="img/education_abroad_img.png" alt="Обучение за рубежом" class="img-responsive col-xs-12">
-                  <img src="img/education_abroad_img2.png" alt="Высшее образование за рубежом" class="img-responsive col-xs-12">
-                  <img src="img/education_abroad_img3.png" alt="Образование за рубежом" class="img-responsive col-xs-12">
+                  <img src="img/education_abroad_img.png" alt="Обучение за рубежом" title="Обучение за рубежом" class="img-responsive col-xs-12">
+                  <img src="img/education_abroad_img2.png" alt="Высшее образование за рубежом" title="Высшее образование за рубежом" class="img-responsive col-xs-12">
+                  <img src="img/education_abroad_img3.png" alt="Образование за рубежом" title="Университеты за рубежом" class="img-responsive col-xs-12">
 
               </div>
 
