@@ -386,8 +386,8 @@ nav ul li:first-child {margin-left: 25%;}
 
 .about-2 {
     border-top: 1px solid #575a5b;
-    border-bottom: 1px solid #575a5b;
-    padding-top: 3%;
+    /*border-bottom: 1px solid #575a5b;*/
+    padding-top: 2%;
     padding-bottom: 3%;
 }
 
