@@ -111,7 +111,7 @@
                 <div class="col-md-4 kartinka-center">
 
 
-                    <img src="img/about/about-us.png" alt="Балтийский Центр" title="Балтийский Центр" class="img-responsive col-xs-12">
+                    <img src="img/about/about-us.jpg" alt="Балтийский Центр" title="Балтийский Центр" class="img-responsive col-xs-12">
 
                 </div>
             </div>
@@ -126,7 +126,7 @@
                <div class="col-md-4 kartinka-center">
 
 
-                    <img src="img/about/about-us2.png" alt="Сотрудники Балтийского Центра" title="Сотрудники Балтийского Центра" class="img-responsive col-xs-12">
+                    <img src="img/about/about-us2.jpg" alt="Сотрудники Балтийского Центра" title="Сотрудники Балтийского Центра" class="img-responsive col-xs-12">
 
                 </div>
 
