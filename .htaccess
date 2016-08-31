@@ -8,5 +8,36 @@ ErrorDocument 404 http://baltic-center.eu/page-404.php
 ErrorDocument 500 http://baltic-center.eu/page-500.php
 
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^www.(.+)$ [NC]
-RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+
+RewriteCond %{REQUEST_URI} ^\/$
+RewriteCond %{HTTP_HOST} ^www\.(.*)$
+RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+
+RewriteCond %{REQUEST_URI} !\?
+RewriteCond %{REQUEST_URI} !\&
+RewriteCond %{REQUEST_URI} !\=
+RewriteCond %{REQUEST_URI} !\.
+RewriteCond %{REQUEST_URI} \/$
+RewriteCond %{HTTP_HOST} ^www\.(.*)$
+RewriteRule ^(.*)\/$ http://%1/$1 [L,R=301]
+
+RewriteCond %{REQUEST_URI} !\?
+RewriteCond %{REQUEST_URI} !\&
+RewriteCond %{REQUEST_URI} !\=
+RewriteCond %{REQUEST_URI} !\.
+RewriteCond %{REQUEST_URI} !\/$
+RewriteCond %{HTTP_HOST} ^www\.(.*)$
+RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+
+RewriteCond %{REQUEST_URI} !\?
+RewriteCond %{REQUEST_URI} !\&
+RewriteCond %{REQUEST_URI} !\=
+RewriteCond %{REQUEST_URI} !\.
+RewriteCond %{REQUEST_URI} \/$
+RewriteCond %{HTTP_HOST} ^([^www].*)$
+RewriteRule ^(.*)\/$ http://%1/$1 [L,R=301]
+
+RewriteCond %{REQUEST_URI} /index.php
+RewriteCond %{QUERY_STRING} ^\z
+RewriteRule ^(.*)$ http://baltic-center.eu/? [R=301,L]
