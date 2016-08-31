@@ -86,13 +86,13 @@
                                 <a href="index.php">Russian</a>
                             </li>
                             <li class="hvr-underline-from-left">
-                                <a href="EN/index.php">English</a>
+                                <a href="EN/index-en.php">English</a>
                             </li>
                             <li class="hvr-underline-from-left">
-                                <a href="KZ/index.php">Kazakh</a>
+                                <a href="KZ/index-kz.php">Kazakh</a>
                             </li>
                             <li class="hvr-underline-from-left">
-                                <a href="AR/index.php">Armenian</a>
+                                <a href="AR/index-ar.php">Armenian</a>
                             </li>
 
 

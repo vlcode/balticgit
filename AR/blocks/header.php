@@ -18,10 +18,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand hidden-xs" href="index.php">
+                <a class="navbar-brand hidden-xs" href="index-ar.php">
                     <img src="../img/logo_black.png" alt="Baltic Center Logo" class="img-responsive">
                 </a>
-                <a class="navbar-brand visible-xs" href="index.php">
+                <a class="navbar-brand visible-xs" href="index-ar.php">
                     <img src="../img/logo.png" alt="Baltic Center Logo" class="img-responsive">
                 </a>
             </div>
@@ -85,13 +85,13 @@
                                 <a href="../index.php">Russian</a>
                             </li>
                             <li class="hvr-underline-from-left">
-                                <a href="../EN/index.php">English</a>
+                                <a href="../EN/index-en.php">English</a>
                             </li>
                             <li class="hvr-underline-from-left">
-                                <a href="../KZ/index.php">Kazakh</a>
+                                <a href="../KZ/index-kz.php">Kazakh</a>
                             </li>
                             <li class="hvr-underline-from-left">
-                                <a href="index.php">Armenian</a>
+                                <a href="index-ar.php">Armenian</a>
                             </li>
 
 
