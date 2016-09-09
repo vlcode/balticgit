@@ -99,13 +99,13 @@
         <div class="item">
             <img src="img/header_background.jpg" alt="Baltic Center">
             <div class="carousel-caption hidden-xs">
-            <h3>Удобная процедура поступления онлайн <br> <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka registration2 hidden-sm" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click'])">Зарегестрироваться</button></a></h3>
+            <h3>Удобная процедура поступления онлайн <br> <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka registration2 hidden-sm" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click']);">Зарегестрироваться</button></a></h3>
             </div>
         </div>
         <div class="item">
             <img src="img/header_background.jpg" alt="Baltic Center">
             <div class="carousel-caption hidden-xs">
-            <h3>Лучшие университеты Прибалтики <br> <a href="http://baltic-center.eu/universities.php" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka registration2 hidden-sm" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click'])">Каталог</button></a></h3>
+            <h3>Лучшие университеты Прибалтики <br> <a href="http://baltic-center.eu/universities.php" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka registration2 hidden-sm" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click']);">Каталог</button></a></h3>
             </div>
         </div>
     </div>
