@@ -26,31 +26,20 @@
     <link rel="apple-touch-icon" href="apple-touch-favicon.png"/>
 
 
-  <script type="text/javascript">
+    <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-76055340-1']);
-  _gaq.push(['_trackPageview']);
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-76055340-1']);
+      _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
 
-</script>
-   
-   <!-- <script>
-     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-76055340-1', 'auto');
-      ga('send', 'pageview');
-    </script>-->
-
-
+    </script>
+ 
 
 
 </head>
@@ -113,7 +102,7 @@
         <div class="item">
             <img src="img/header_background.jpg" alt="Baltic Center">
             <div class="carousel-caption hidden-xs">
-            <h3>Удобная процедура поступления онлайн <br> <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank" onClick="ga(['_trackEvent', 'Knopka_registracii', 'Click']);"><button type="button" class="btn btn-danger knopka registration2 hidden-sm">Зарегестрироваться</button></a></h3>
+            <h3>Удобная процедура поступления онлайн <br> <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click']);"><button type="button" class="btn btn-danger knopka registration2 hidden-sm">Зарегестрироваться</button></a></h3>
             </div>
         </div>
         <div class="item">
