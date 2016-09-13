@@ -257,6 +257,10 @@ nav ul li:first-child {margin-left: 25%;}
 
 .main-text img {margin-bottom: 6%;}
 
+.main-text img:first-child {
+    padding-top: 70px;
+}
+
 
 /*News*/
 
