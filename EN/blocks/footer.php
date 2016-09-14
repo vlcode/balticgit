@@ -28,7 +28,7 @@
                   <h4>In Tajikistan:</h4>
                 <p>Rudaki 127, 734003, Dushanbe</p>
                 <p>Business Centre "Rudaki Plaza", office 507</p>
-                
+
                 <p>+99293 5709201, </p>
                 <p>+992 935001639</p>
                 <p>tajikistan@baltic-center.eu</p>
@@ -53,7 +53,7 @@
               </div>
               <div class="col-sm-6">
                  <div class="pull-right buttons">
-                  <a href="https://www.facebook.com/BalticCenterFSD/" rel="nofollow" target="_blank"><i class="social-button fb fa fa-facebook hvr-float"></i></a>
+                  <a href="https://www.facebook.com/Baltic-Center-En-1037633409607561/?ref=settings" rel="nofollow" target="_blank"><i class="social-button fb fa fa-facebook hvr-float"></i></a>
                   <a href="https://vk.com/baltic_center" rel="nofollow" target="_blank"><i class="social-button vk fa fa-vk hvr-float"></i></a>
 <!--                  <a href="" target="_blank"><i class="social-button insta fa fa-instagram hvr-float"></i></a>-->
                   <a href="skype:call-bc?add" rel="nofollow" target="_blank"><i class="social-button skype fa fa-skype hvr-float"></i></a>
