@@ -3,11 +3,11 @@
 <head>
         <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="Описание">
-    <meta name="keywords" content="Описание">
+    <meta name="description" content="На данной странице вы сможете ознакомиться с учебными программами Рижской Высшей Школы Права и ценами на обучение, узнать о преимуществах обучения и возможностях">
+    <meta name="keywords" content="Рижская Высшая Школа Права">
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
 
-    <title>Baltic Center - Описание.</title>
+    <title>Baltic Center - Рижская Высшая Школа Права.</title>
 
 
 
