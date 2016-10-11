@@ -228,24 +228,18 @@
       <div class="container news">
           <div class="row">
              <h2><a href="news.php">Новости</a></h2>
+             <div class="col-sm-4 hvr-float-shadow">
+                  <a href="distance-learning_news.php"><img src="img/news/distance-learning__small.jpg" alt="Дистанционное образование" class="img-responsive col-xs-12"></a>
+                  <h3>Почему люди выбирают дистанционное образование?</h3>
+                  <p>Принимая решение получить дистанционное образование вы открываете для себя новые горизонты и широкие перспективы. Ведь мы живём в мире...</p>
+
+              </div>
               <div class="col-sm-4 hvr-float-shadow">
                   <a href="grant_news.php"><img src="img/news/grant-min.jpg" alt="Грант на обучение" class="img-responsive col-xs-12"></a>
                   <h3>Грант на обучение от Балтийского Центра</h3>
                   <p>Балтийский Центр предоставляет абитуриентам возможность выиграть грант и оплатить первый год обучения в Даугавпилсском Университете (DU). Грант предос...</p>
 
               </div>
-              <!--<div class="col-sm-4">
-                  <img src="img/news_img2.png" alt="News" class="img-responsive col-xs-12">
-                  <h3>Летние курсы в RISEBA</h3>
-                  <p>Сегодня мы бы хотели рассказать вам о впечатлениях студентов КазНУ, проходивших стажировку в Рижской Международной Высшей Школе Экономики и Управления.</p>
-
-              </div>
-              <div class="col-sm-4">
-                  <img src="img/news_img2.png" alt="News" class="img-responsive col-xs-12">
-                  <h3>Летние курсы в RISEBA</h3>
-                  <p>Сегодня мы бы хотели рассказать вам о впечатлениях студентов КазНУ, проходивших стажировку в Рижской Международной Высшей Школе Экономики и Управления.</p>
-
-              </div>-->
           </div>
       </div>
   </section>
