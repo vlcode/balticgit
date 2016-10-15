@@ -465,6 +465,89 @@ nav ul li:first-child {margin-left: 25%;}
 
 }
 
+/*Slider*/
+
+.carousel-caption {
+  /*border: 1px solid white;*/
+  display: block;
+  height: 75%;
+    width: 33%;
+    /*background: wheat;*/
+    position: absolute;
+    left: 13%;
+}
+
+.carousel-caption h3 {
+  font-size: 300%;
+  font-weight: normal;
+}
+
+.registration2 {
+  margin-top: 7%;
+}
+
+.registration3 {
+  margin-top: -9%;
+}
+
+.armenian-navbar a {
+  font-size: 100%;
+}
+
+.carousel-caption .slider-ul-title {
+  font-size: 226%;
+  font-weight: normal;
+  position: relative;
+  top: -20%;
+}
+
+.slider-ul {
+  text-align: left;
+  font-size: 156%;
+  position: relative;
+  top: -20%;
+}
+
+@media (min-width:1187px) and (max-width: 1350px) {
+  .carousel-caption .slider-ul-title {
+    font-size: 176%;
+    font-weight: normal;
+    position: relative;
+    top: -20%;
+  }
+
+  .slider-ul {
+    text-align: left;
+    font-size: 136%;
+    position: relative;
+    top: -20%;
+  }
+}
+
+@media (min-width:992px) and (max-width: 1186px) {
+
+  .carousel-caption h3 {
+    font-size: 156%;
+    font-weight: normal;
+  }
+
+  .carousel-caption .slider-ul-title {
+    font-size: 156%;
+    font-weight: normal;
+    position: relative;
+    top: -20%;
+  }
+
+  .slider-ul {
+    text-align: left;
+    font-size: 106%;
+    position: relative;
+    top: -20%;
+  }
+
+
+}
+
 @media (min-width:768px) and (max-width: 991px) {
     .nav .knopka {
     position: relative;
@@ -474,6 +557,25 @@ nav ul li:first-child {margin-left: 25%;}
 
     .system-of-education .second-picture {
     margin: 65% 0;
+    }
+
+    .carousel-caption h3 {
+      font-size: 156%;
+      font-weight: normal;
+    }
+
+    .carousel-caption .slider-ul-title {
+      font-size: 156%;
+      font-weight: normal;
+      position: relative;
+      top: -20%;
+    }
+
+    .slider-ul {
+      text-align: left;
+      font-size: 106%;
+      position: relative;
+      top: -20%;
     }
 }
 
@@ -606,29 +708,4 @@ cursor:pointer;
 display:none;
 color:#FFF;
 font-size:110%;
-}
-
-/*Slider*/
-
-.carousel-caption {
-  /*border: 1px solid white;*/
-  display: block;
-  height: 75%;
-    width: 33%;
-    /*background: wheat;*/
-    position: absolute;
-    left: 13%;
-}
-
-.carousel-caption h3 {
-  font-size: 300%;
-  font-weight: normal;
-}
-
-.registration2 {
-  margin-top: 7%;
-}
-
-.armenian-navbar a {
-  font-size: 100%;
 }

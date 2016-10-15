@@ -39,7 +39,7 @@
       })();
 
     </script>
- 
+
 
 
 </head>
@@ -95,7 +95,15 @@
         <div class="item active">
             <img src="img/header_background.jpg" alt="Baltic Center">
             <div class="carousel-caption hidden-xs">
-               <h3>Хотите учиться за рубежом?</h3>
+               <h3 class="slider-ul-title">ХОЧЕШЬ УЧИТЬСЯ <strong>ЗА РУБЕЖОМ</strong></h3>
+               <ul class="slider-ul">
+                 <li>- Более 42 университетов и 200 программ;</li>
+                <li>- Выиграй грант и учись БЕСПЛАТНО;</li>
+                <li>- Обучение на русском и английском языках;</li>
+                <li>- Диплом, признанный во всем мире ;</li>
+                <li>- Путешествуй без отрыва от учёбы;</li>
+               </ul>
+               <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click']);"><button type="button" class="btn btn-danger knopka registration3 hidden-sm">Зарегестрироваться</button></a>
 
             </div>
         </div>
