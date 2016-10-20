@@ -3,7 +3,7 @@
 <head>
         <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="Хотели бы вы знать, почему с каждым годом все больше студентов едут обучаться в Европу?">
+    <meta name="description" content="С каждым годом обучение в Европе становится все актуальнее. Большое количество студентов выбирают Европейские вузы за их качество образования и возможности.">
     <meta name="keywords" content="обучение в европе, образование в европе, система образования в европе">
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
