@@ -86,6 +86,13 @@
       <div class="container news">
           <div class="row">
              <h2>Новости</h2>
+             <div class="col-sm-4 hvr-float-shadow">
+                 <a href="distance-learning_news.php">
+                  <img src="img/news/education-in-europe__small.jpg" alt="Обучение в Европе" title="Обучение в Европе" class="img-responsive col-xs-12">
+                  <h3>Преимущества обучения в Европе</h3>
+                  <p>Миллионы студентов со всего мира ежегодно выбирают Европейское образование. Этому есть вполне объяснимые причины, о которых мы расскажем ниже:</p>
+                </a>
+              </div>
               <div class="col-sm-4 hvr-float-shadow">
                  <a href="distance-learning_news.php">
                   <img src="img/news/distance-learning__small.jpg" alt="Дистанционное образование" title="Дистанционное образование" class="img-responsive col-xs-12">
