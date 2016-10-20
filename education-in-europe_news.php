@@ -80,7 +80,7 @@
          <ol class="breadcrumb">
       <li><a href="index.php">Главная</a></li>
       <li><a href="news.php">Новости</a></li>
-      <li class="active">Дистанционное образование</li>
+      <li class="active">Преимущества обучения в Европе</li>
 </ol>
      </div>
  </div>
