@@ -3,8 +3,8 @@
 <head>
         <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="Узнайте о преимуществах дистанционного образования, а так же ознакомьтесь с университетами Прибалтики предоставляющие программы для дистанционного обучения.">
-    <meta name="keywords" content="дистанционное образование, дистанционное обучение за рубежом, онлайн обучение, дистанционное образование за рубежом, обучение онлайн">
+    <meta name="description" content="Хотели бы вы знать, почему с каждым годом все больше студентов едут обучаться в Европу?">
+    <meta name="keywords" content="обучение в европе, образование в европе, система образования в европе">
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
 
