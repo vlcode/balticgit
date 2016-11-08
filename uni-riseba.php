@@ -3,12 +3,12 @@
 <head>
         <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="Описание">
-    <meta name="keywords" content="Описание">
+    <meta name="description" content="Рижская Международная школа Экономики и Управления предоставляет студентам программы Бакалавра, Магистратуры и Докторантуры, по направлениям менеджмента и экономики. ">
+    <!--<meta name="keywords" content="Описание">-->
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
 
-    <title>Baltic Center - Описание.</title>
+    <title>Riseba</title>
 
 
 

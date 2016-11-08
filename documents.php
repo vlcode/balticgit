@@ -3,12 +3,12 @@
 <head>
         <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="В данном разделе вы сможете ознакомиться с необходимыми документами  для поступления в зарубежные университеты.">
-    <meta name="keywords" content="Документы для поступления, документы для вуза, документы в университет">
+    <meta name="description" content="В данном разделе вы сможете ознакомиться со списком необходимыми документами для поступления в вузы Латвии, Литвы и Эстонии.">
+    <!--<meta name="keywords" content="Документы для поступления, документы для вуза, документы в университет">-->
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
 
-    <title>Baltic Center - Документы для поступления.</title>
+    <title>Необходимые документы</title>
 
 
 

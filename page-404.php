@@ -3,11 +3,11 @@
 <head>
         <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="Описание">
-    <meta name="keywords" content="Описание">
+    <meta name="description" content="К сожалению данная страница не найдена">
+    <!--<meta name="keywords" content="Описание">-->
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
 
-    <title>Baltic Center - Описание.</title>
+    <title>Упс, ошибка 404...</title>
 
 
 
