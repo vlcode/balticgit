@@ -160,14 +160,14 @@
                 <div class="col-md-6">
                     <h2>Украина:</h2>
                     <span class="bold">Компания:</span>  
-                    Verainfo <br><br>
+                    Virainfo <br><br>
                     
 
 <!--                    <span class="bold">Адрес:</span> ул.Мауленова, дом 85, 3 этаж, офис 50, Алматы, Казахстан<br><br>-->
 
 <!--                    <span class="bold">Телефоны:</span> +7727 2676272, +7778 3676202, +7778 3679234<br><br>-->
 
-                    <span class="bold">E-mail:</span> verainfo@ukr.net<br><br>
+                    <span class="bold">E-mail:</span> virainfo@ukr.net<br><br>
 
                     <span class="bold">Сайт:</span> <a href="http://virainfo.kiev.ua/" target="_blank">virainfo.kiev.ua</a>
                 </div>

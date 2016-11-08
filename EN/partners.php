@@ -8,11 +8,11 @@
         <meta property="og:image" content="http://baltic-center.eu/img/header_background.jpg" />
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <meta name="description" content="Описание">
-    <meta name="keywords" content="Описание">
+    <!--<meta name="keywords" content="Описание">-->
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
 
-    <title>Baltic Center - education abroad</title>
+    <title>Partners</title>
 
 
 

@@ -7,8 +7,8 @@
         <meta property="og:description" content="Education ­ a long­term investment in your future. It means that the choice of the University should be done very seriously and at this point, study abroad is very popular." /> 
         <meta property="og:image" content="http://baltic-center.eu/img/header_background.jpg" />
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="Обучение за рубежом вполне реально! Балтийский Центр одна из ведущих фирм в области образование за рубежом. Учеба за рубежом это гарантия качества и грамотная инвестиция.">
-    <meta name="keywords" content="Обучение за рубежом, образование за рубежом, учеба за рубежом">
+    <meta name="description" content="Education a long term investment in your future. It means that the choice of the University should be done very seriously and at this point, study abroad is very popular.">
+    <!--<meta name="keywords" content="Обучение за рубежом, образование за рубежом, учеба за рубежом">-->
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
 

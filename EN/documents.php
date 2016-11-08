@@ -7,12 +7,12 @@
         <meta property="og:description" content="Education ­ a long­term investment in your future. It means that the choice of the University should be done very seriously and at this point, study abroad is very popular." /> 
         <meta property="og:image" content="http://baltic-center.eu/img/header_background.jpg" />
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="В данном разделе вы сможете ознакомиться с необходимыми документами  для поступления в зарубежные университеты.">
+    <meta name="description" content="In this section you will find a list of the necessary documents for admission to higher education institutions of Latvia, Lithuania and Estonia.">
     <meta name="keywords" content="Документы для поступления, документы для вуза, документы в университет">
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
 
-    <title>Baltic Center - Документы для поступления.</title>
+    <title>Documents</title>
 
 
 
