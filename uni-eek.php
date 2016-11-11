@@ -215,7 +215,7 @@
                      
                      <div class="row">
                          <div class="col-sm-4 col-xs-12">Бизнес администрирование &#40;Менеджмент&#41;</div>
-                         <div class="col-sm-2 col-xs-12">3,5 года</div>
+                         <div class="col-sm-2 col-xs-12">3 года</div>
                          <div class="col-sm-2 col-xs-12"> 3000 EUR   </div>
                          <div class="col-sm-2 col-xs-12">Очная</div>
                          <div class="col-sm-2 col-xs-12">Русский  </div>
@@ -223,7 +223,7 @@
                      
                      <div class="row">
                          <div class="col-sm-4 col-xs-12">Бизнес администрирование &#40;Логистика&#41;</div>
-                         <div class="col-sm-2 col-xs-12">3,5 года</div>
+                         <div class="col-sm-2 col-xs-12">3 года</div>
                          <div class="col-sm-2 col-xs-12"> 3000 EUR   </div>
                          <div class="col-sm-2 col-xs-12">Очная</div>
                          <div class="col-sm-2 col-xs-12">Русский  </div>
@@ -231,7 +231,7 @@
                      
                      <div class="row">
                          <div class="col-sm-4 col-xs-12">Бизнес администрирование &#40;Менеджмент Финансов&#41;</div>
-                         <div class="col-sm-2 col-xs-12">3,5 года</div>
+                         <div class="col-sm-2 col-xs-12">3 года</div>
                          <div class="col-sm-2 col-xs-12"> 3000 EUR   </div>
                          <div class="col-sm-2 col-xs-12">Очная</div>
                          <div class="col-sm-2 col-xs-12">Русский  </div>
@@ -239,7 +239,7 @@
                      
                      <div class="row">
                          <div class="col-sm-4 col-xs-12">WEB - технологии</div>
-                         <div class="col-sm-2 col-xs-12">3,5 года</div>
+                         <div class="col-sm-2 col-xs-12">3 года</div>
                          <div class="col-sm-2 col-xs-12"> 3000 EUR   </div>
                          <div class="col-sm-2 col-xs-12">Очная</div>
                          <div class="col-sm-2 col-xs-12">Русский  </div>
