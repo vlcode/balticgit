@@ -118,6 +118,14 @@
                     <span class="bold">E-mail:</span> uzbekistan@baltic-center.eu<br><br>
 
                     <span class="bold">Skype:</span> baltic-center.eu
+                    
+                    <h3>Filiation in Andijan:</h3>
+                    
+                    <span class="bold">Address:</span> Mashrab Street 9А, Andijan, Uzbekistan<br><br>
+
+                    <span class="bold">Phones:</span> +99895 201 11 00, +99890 543 21 00<br><br>
+
+                    <span class="bold">E-mail:</span> andijan@baltic-center.eu<br><br>
                 </div>
             </div>
 
