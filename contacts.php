@@ -120,6 +120,14 @@
                     <span class="bold">E-mail:</span> uzbekistan@baltic-center.eu<br><br>
 
                     <span class="bold">Skype:</span> baltic-center.eu
+                    
+                    <h3>Филиал в Андижане:</h3>
+                    
+                    <span class="bold">Адрес:</span> ул. Машраб 9А, Андижан, Узбекистан<br><br>
+
+                    <span class="bold">Телефоны:</span> +99895 201 11 00, +99890 543 21 00<br><br>
+
+                    <span class="bold">E-mail:</span> andijan@baltic-center.eu<br><br>
                 </div>
             </div>
 
