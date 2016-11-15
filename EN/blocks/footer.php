@@ -16,8 +16,8 @@
                 <p>+99871 2882641</p>
                 <p>uzbekistan@baltic-center.eu</p>
                 <h3>In Andijan:</h3>
-                <p>Mashrab Street 9А, Andijan, Uzbekistan</p>
-                <p>+99895 201 11 00, +99890 543 21 00</p>
+                <p>Mashrab Street 9А, 170134, Andijan, Uzbekistan</p>
+                <p>+99895 201 21 00, +99890 143 01 21</p>
                 <p>andijan@baltic-center.eu</p>
               </div>
 
