@@ -121,7 +121,7 @@
 
                     <span class="bold">Skype:</span> baltic-center.eu
                     
-                    <h3>Филиал в Андижане:</h3>
+                    <h3>В Андижане:</h3>
                     
                     <span class="bold">Адрес:</span> ул. Машраб 9А, Андижан, Узбекистан<br><br>
 

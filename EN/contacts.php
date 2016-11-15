@@ -119,7 +119,7 @@
 
                     <span class="bold">Skype:</span> baltic-center.eu
                     
-                    <h3>Filiation in Andijan:</h3>
+                    <h3>In Andijan:</h3>
                     
                     <span class="bold">Address:</span> Mashrab Street 9А, Andijan, Uzbekistan<br><br>
 
