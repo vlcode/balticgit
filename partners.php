@@ -182,6 +182,11 @@
                     <div class="col-xs-4"><img src="img/logos/priority_120px/VTDK.png" alt="" class="img-responsive hvr-float-shadow"><p>Вильнюсский Колледж Технологий и Дизайна</p></div>
                     <div class="col-xs-4"><img src="img/logos/priority_120px/VVK.png" alt="" class="img-responsive hvr-float-shadow"><p>Вильнюсский бизнес колледж</p></div>
                 </div>
+                <div class="row">
+                    <div class="col-xs-4"><img src="img/logos/not_priority_120px/BAA-Training.png" alt="" class="img-responsive hvr-float-shadow"><p>BAA Training Aviation Academy</p></div>
+                    <!--<div class="col-xs-4"><img src="img/logos/priority_120px/VTDK.png" alt="" class="img-responsive hvr-float-shadow"><p>Вильнюсский Колледж Технологий и Дизайна</p></div>
+                    <div class="col-xs-4"><img src="img/logos/priority_120px/VVK.png" alt="" class="img-responsive hvr-float-shadow"><p>Вильнюсский бизнес колледж</p></div>-->
+                </div>
 
 
 
