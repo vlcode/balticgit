@@ -124,7 +124,7 @@ $('body,html').animate({scrollTop:0},800);
                <div class="col-md-7 general-uni-info">
 
         <!--    Header university              -->
-                   <div class="col-xs-9"><h2>Рижская Международная Школа Экономики и Управления</h2></div>
+                   <div class="col-xs-9"><h2>Высшая Школа Бизнеса, Искусств и Технологий (RISEBA)</h2></div>
                    <div class="col-xs-3"><img src="img/logos/priority_120px/Riseba.png" alt="Рижская Международная Школа Экономики и Управления" class="img-responsive col-xs-12 pull-right"></div>
                    <div class="clear-both"></div>
                    <div class="hr1"></div>

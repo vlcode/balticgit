@@ -93,7 +93,7 @@
                     <h1>Наши партнёры</h1>
                     <h2>Латвия</h2>
                 <div class="row">
-                    <div class="col-xs-4"><img src="img/logos/priority_120px/Riseba.png" alt="" class="img-responsive hvr-float-shadow"><p>Рижская Международная школа экономики и управления</p></div>
+                    <div class="col-xs-4"><img src="img/logos/priority_120px/Riseba.png" alt="" class="img-responsive hvr-float-shadow"><p>Высшая Школа Бизнеса, Искусств и Технологий (RISEBA)</p></div>
                     <div class="col-xs-4"><img src="img/logos/priority_120px/BA.png" alt="" class="img-responsive hvr-float-shadow"><p>BA Школа Бизнеса и финансов</p></div>
                     <div class="col-xs-4"><img src="img/logos/not_priority_120px/Turiba.png" alt="" class="img-responsive hvr-float-shadow"><p>Высшая Школа Бизнеса Turiba</p></div>
                 </div>

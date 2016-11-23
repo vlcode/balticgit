@@ -90,7 +90,7 @@
 
     <section>
         <div class="container university">
-        <h1>Рижская Международная школа Экономики и Управления</h1>
+        <h1>Высшая Школа Бизнеса, Искусств и Технологий (RISEBA)</h1>
         <!--           1st row -->
             <div class="row">
                <!-- <div class="col-sm-3">
