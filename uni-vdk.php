@@ -158,19 +158,11 @@
                  </div>
 
                  <div class="row margin-top-2">
-                     <div class="col-sm-4 col-xs-12">Мультимедийный дизайн</div>
+                     <div class="col-sm-4 col-xs-12">Дизайн интерьера и мебели</div>
                      <div class="col-sm-2 col-xs-12">3 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2210 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 2300 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
-                 </div>
-
-                 <div class="row">
-                     <div class="col-sm-4 col-xs-12">Графический дизайн	</div>
-                     <div class="col-sm-2 col-xs-12">3 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2210 EUR   </div>
-                     <div class="col-sm-2 col-xs-12">Очная</div>
-                     <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
 
                  </div>
