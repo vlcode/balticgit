@@ -237,6 +237,12 @@
           <div class="row">
              <h2><a href="news.php">Новости</a></h2>
              <div class="col-sm-4 hvr-float-shadow">
+                  <a href="he-he_news.php"><img src="img/news/he-he_2_news_mini.jpg" alt="Health and Help" title="Health and Help" class="img-responsive col-xs-12"></a>
+                  <h3>Health&amp;Help - меняя мир к лучшему.</h3>
+                  <p>Всегда удивительно встречать людей, отличающихся от других. Людей для которых новые впечатления и возможность помогать другим людям стоят гораздо дороже любых денег мира.</p>
+
+              </div>
+             <div class="col-sm-4 hvr-float-shadow">
                   <a href="education-in-europe_news.php"><img src="img/news/education-in-europe__small.jpg" alt="Преимущества обучения в Европе" title="Обучение в Европе" class="img-responsive col-xs-12"></a>
                   <h3>Преимущества обучения в Европе</h3>
                   <p>Миллионы студентов со всего мира ежегодно выбирают Европейское образование. Этому есть вполне объяснимые причины, о которых мы расскажем ниже:</p>
@@ -246,12 +252,6 @@
                   <a href="distance-learning_news.php"><img src="img/news/distance-learning__small.jpg" alt="Дистанционное образование" class="img-responsive col-xs-12"></a>
                   <h3>Почему люди выбирают дистанционное образование?</h3>
                   <p>Принимая решение получить дистанционное образование вы открываете для себя новые горизонты и широкие перспективы. Ведь мы живём в мире...</p>
-
-              </div>
-              <div class="col-sm-4 hvr-float-shadow">
-                  <a href="grant_news.php"><img src="img/news/grant-min.jpg" alt="Грант на обучение" class="img-responsive col-xs-12"></a>
-                  <h3>Грант на обучение от Балтийского Центра</h3>
-                  <p>Балтийский Центр предоставляет абитуриентам возможность выиграть грант и оплатить первый год обучения в Даугавпилсском Университете (DU). Грант предос...</p>
 
               </div>
           </div>

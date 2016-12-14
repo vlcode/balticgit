@@ -87,6 +87,13 @@
           <div class="row">
              <h2>Новости</h2>
              <div class="col-sm-4 hvr-float-shadow">
+                 <a href="he-he_news.php">
+                  <img src="img/news/he-he_2_news_mini.jpg" alt="Health and Help" title="Health and Help" class="img-responsive col-xs-12">
+                  <h3>>Health&amp;Help - меняя мир к лучшему.</h3>
+                  <p>Всегда удивительно встречать людей, отличающихся от других. Людей для которых новые впечатления и возможность помогать другим людям стоят гораздо дороже любых денег мира.</p>
+                </a>
+              </div>
+             <div class="col-sm-4 hvr-float-shadow">
                  <a href="education-in-europe_news.php">
                   <img src="img/news/education-in-europe__small.jpg" alt="Обучение в Европе" title="Обучение в Европе" class="img-responsive col-xs-12">
                   <h3>Преимущества обучения в Европе</h3>
