@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="У вас есть возможность получить грант на обучение за рубежом от Балтийского Центра. Стань студентом Даугавпилсского Университета и мы оплатим первый год обучения">
+    <meta name="description" content="Всегда удивительно встречать людей, отличающихся от других. Людей для которых новые впечатления и возможность помогать другим людям стоят гораздо дороже любых денег мира.">
     <!--<meta name="keywords" content="Описание">-->
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
