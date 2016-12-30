@@ -61,7 +61,7 @@
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis placeat necessitatibus cum accusantium eligendi unde saepe adipisci, aut nulla architecto dolor quaerat consequatur dicta aliquid deleniti vel facilis quis quae!</p>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis placeat necessitatibus cum accusantium eligendi unde saepe adipisci, aut nulla architecto dolor quaerat consequatur dicta aliquid deleniti vel facilis quis quae!</p>
+                <p>Lorem and ipsum dolor sit amet, consectetur adipisicing elit. Nobis placeat necessitatibus cum accusantium eligendi unde saepe adipisci, aut nulla architecto dolor quaerat consequatur dicta aliquid deleniti vel facilis quis quae!</p>
 
             </div>
         </div>
