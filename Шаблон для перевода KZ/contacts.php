@@ -118,20 +118,10 @@
             </div>
 
             <div class="row margin-top-2">
-                <div class="col-md-6">
-                    <h2>В Казахстане:</h2>
-                    <span class="bold">Режим работы:</span>  <br>
-                    Понедельник - Пятница: с 10-00 до 19-00 <br>
-                    Суббота - Воскресенье: Выходной <br><br>
+                
+                <!-- col-md-6 -->
 
-                    <span class="bold">Адрес:</span> ул.Мауленова, дом 85, 3 этаж, офис 50, 050012, Алматы, Казахстан<br><br>
 
-                    <span class="bold">Телефоны:</span> +7727 2676272, +7778 3676202, +7778 3679234<br><br>
-
-                    <span class="bold">E-mail:</span> kazakhstan@baltic-center.eu<br><br>
-
-                    <span class="bold">Skype:</span> baltic-center.kz
-                </div>
                 <div class="col-md-6">
                     <h2>В Таджикистане:</h2>
                     <span class="bold">Режим работы:</span>  <br>

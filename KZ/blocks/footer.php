@@ -18,10 +18,11 @@
               </div>
 
               <div class="col-sm-3">
-                  <h4>Қазақстанда:</h4>
-                    <p>Қазақстан, 050012, Алматы, Мәуленов көш., 85-үй, 3-қабат, 50-кеңсе</p>
-                    <p>+7727 2676272, +7778 3676202, +7778 3679234</p>
-                    <p>kazakhstan@baltic-center.eu</p>
+                  <h4>Украинада:</h4>
+               <p> Даңғылының Григоренко 14, Киев, Украина</p>
+               <p> +38 (096) 4492948, </p>
+               <p> +38 (095) 7334509</p>
+               <p> +38 (044) 5700809</p>
               </div>
 
               <div class="col-sm-3">
@@ -42,14 +43,8 @@
                <p> +996 700559588, </p>
                 <p>+996 312613297</p>
               </div>
-              <div class="col-sm-3">
-                  <h4>Украинада:</h4>
-               <p> Даңғылының Григоренко 14, Киев, Украина</p>
-               <p> +38 (096) 4492948, </p>
-               <p> +38 (095) 7334509</p>
-               <p> +38 (044) 5700809</p>
-              </div>
-              <div class="col-sm-6">
+              
+              <div class="col-sm-9">
                  <div class="pull-right buttons">
                   <a href="https://www.facebook.com/Baltic-Center-En-1037633409607561/?ref=settings" rel="nofollow" target="_blank"><i class="social-button fb fa fa-facebook hvr-float"></i></a>
                   <a href="https://vk.com/baltic_center" rel="nofollow" target="_blank"><i class="social-button vk fa fa-vk hvr-float"></i></a>

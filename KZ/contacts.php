@@ -122,20 +122,7 @@
             </div>
 
             <div class="row margin-top-2">
-                <div class="col-md-6">
-                    <h2>Қазақстанда:</h2>
-                    <span class="bold">Жұмыс режимі: </span>  <br>
-                    Дүйсенбі - Жұма: с 10-00 до 19-00 <br>
-                    Сенбі - Жексенбі: Демалыс  <br><br>
-
-                    <span class="bold">Мекен жайы:</span> Қазақстан, 050012, Алматы, Мәуленов көш., 85-үй, 3-қабат, 50-кеңсе<br><br>
-
-                    <span class="bold">Телефондары:</span> +7727 2676272, +7778 3676202, +7778 3679234<br><br>
-
-                    <span class="bold">E-mail:</span> kazakhstan@baltic-center.eu<br><br>
-
-                    <span class="bold">Skype:</span> baltic-center.kz
-                </div>
+                <!-- Col-md-6 -->
                 <div class="col-md-6">
                     <h2>Тәжікстанда:</h2>
                     <span class="bold">Жұмыс режимі: </span>  <br>

@@ -130,20 +130,7 @@
             </div>
 
             <div class="row margin-top-2">
-                <div class="col-md-6">
-                    <h2>In Kazakhstan:</h2>
-                    <span class="bold">Working days:</span>  <br>
-                    Monday - Friday: 10:00-19:00 <br>
-                    Saturday - Sunday: Holiday <br><br>
-
-                    <span class="bold">Address:</span> Maulenov Str. 85, 3rd floor, office 50, 05012, Almaty, Kazakhstan<br><br>
-
-                    <span class="bold">Phones:</span> +7727 2676272, +7778 3676202, +7778 3679234<br><br>
-
-                    <span class="bold">E-mail:</span> kazakhstan@baltic-center.eu<br><br>
-
-                    <span class="bold">Skype:</span> baltic-center.kz
-                </div>
+            <!-- col-md-6 -->
                 <div class="col-md-6">
                     <h2>In Tajikistan:</h2>
                     <span class="bold">Working days:</span>  <br>

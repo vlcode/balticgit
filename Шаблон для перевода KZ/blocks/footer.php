@@ -18,19 +18,20 @@
               </div>
 
               <div class="col-sm-3">
-                  <h4>В Казахстане:</h4>
-                    <p>ул.Мауленова, дом 85, 3 этаж, офис 50, 050012, Алматы, Казахстан</p>
-                    <p>+7727 2676272, +7778 3676202, +7778 3679234</p>
-                    <p>kazakhstan@baltic-center.eu</p>
-              </div>
-
-              <div class="col-sm-3">
                   <h4>В Таджикистане:</h4>
                 <p>Проспект Рудаки 127, 734003, Душанбе</p>
                 <p>Бизнес центр "Рудаки Плаза", офис 507</p>
                 <p>+99293 5709201, </p>
                 <p>+992 935001639</p>
                 <p>tajikistan@baltic-center.eu</p>
+              </div>
+
+              <div class="col-sm-3">
+                  <h4>В Украине:</h4>
+               <p> Проспект Петра Григоренко 14, Киев, Украина</p>
+               <p> +38 (096) 4492948, </p>
+               <p> +38 (095) 7334509</p>
+               <p> +38 (044) 5700809</p>
               </div>
 
           </div>
@@ -43,14 +44,8 @@
                <p> +996 700559588, </p>
                 <p>+996 312613297</p>
               </div>
-              <div class="col-sm-3">
-                  <h4>В Украине:</h4>
-               <p> Проспект Петра Григоренко 14, Киев, Украина</p>
-               <p> +38 (096) 4492948, </p>
-               <p> +38 (095) 7334509</p>
-               <p> +38 (044) 5700809</p>
-              </div>
-              <div class="col-sm-6">
+              
+              <div class="col-sm-9">
                  <div class="pull-right buttons">
                   <a href="https://www.facebook.com/BalticCenterFSD/" rel="nofollow" target="_blank"><i class="social-button fb fa fa-facebook hvr-float"></i></a>
                   <a href="https://vk.com/baltic_center" rel="nofollow" target="_blank"><i class="social-button vk fa fa-vk hvr-float"></i></a>
