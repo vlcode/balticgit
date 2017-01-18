@@ -103,14 +103,14 @@
                 <li>- Диплом, признанный во всем мире ;</li>
                 <li>- Путешествуй без отрыва от учёбы;</li>
                </ul>
-               <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click']);"><button type="button" class="btn btn-danger knopka registration3 hidden-sm">Зарегестрироваться</button></a>
+               <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click']);"><button type="button" class="btn btn-danger knopka registration3 hidden-sm">Зарегистрироваться</button></a>
 
             </div>
         </div>
         <div class="item">
             <img src="img/header_background.jpg" alt="Baltic Center">
             <div class="carousel-caption hidden-xs">
-            <h3>Удобная процедура поступления онлайн <br> <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click']);"><button type="button" class="btn btn-danger knopka registration2 hidden-sm">Зарегестрироваться</button></a></h3>
+            <h3>Удобная процедура поступления онлайн <br> <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click']);"><button type="button" class="btn btn-danger knopka registration2 hidden-sm">Зарегистрироваться</button></a></h3>
             </div>
         </div>
         <div class="item">
@@ -143,7 +143,7 @@
 
     <div class="row new-buttons-first">
      <div class="col-xs-12 visible-xs visible-sm">
-         <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka knopka2" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click'])">Зарегестрироваться</button></a>
+         <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka knopka2" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click'])">Зарегистрироваться</button></a>
      </div>
      </div>
      <div class="row">

@@ -98,7 +98,7 @@
 
       <div class="want-to-study-block">
 
-           <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka registration" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click'])">Зарегестрироваться</button></a>
+           <a href="https://baltic-center.dreamapply.com/applicant/register" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka registration" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click'])">Зарегистрироваться</button></a>
 
       </div>
 
