@@ -52,6 +52,8 @@
                             <li class="divider clear-both"></li>
                   								<li><a href="granti.php">Гранты</a></li>
                             <li class="divider clear-both"></li>
+                                                <li><a href="pricelist.php">Прейскурант</a></li>                                                
+                            <li class="divider clear-both"></li>
                   								<li><a href="pribaltic.php">О Прибалтике</a></li>
 
                             </ul>
