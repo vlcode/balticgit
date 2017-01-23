@@ -155,7 +155,7 @@
 
                  <div class="row margin-top-2">
                      <div class="col-sm-4 col-xs-12">Языки и межкультурная коммуникация</div>
-                     <div class="col-sm-2 col-xs-12">3-4 года</div>
+                     <div class="col-sm-2 col-xs-12">3 года</div>
                      <div class="col-sm-2 col-xs-12"> 2100 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
@@ -171,7 +171,7 @@
 
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Бизнес Администрирование	</div>
-                     <div class="col-sm-2 col-xs-12">3-4 года</div>
+                     <div class="col-sm-2 col-xs-12">3 года</div>
                      <div class="col-sm-2 col-xs-12"> 2100 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
@@ -179,22 +179,6 @@
 
                  <div class="row margin-top-2">
                      <div class="col-sm-12 col-xs-12"><em>Программы магистра</em></div>
-                 </div>
-
-                 <div class="row margin-top-2">
-                     <div class="col-sm-4 col-xs-12">Электроника</div>
-                     <div class="col-sm-2 col-xs-12">2 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2000 EUR   </div>
-                     <div class="col-sm-2 col-xs-12">Очная</div>
-                     <div class="col-sm-2 col-xs-12">Английский  </div>
-                 </div>
-
-                 <div class="row">
-                     <div class="col-sm-4 col-xs-12">Информационные Технологии</div>
-                     <div class="col-sm-2 col-xs-12">2 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2000 EUR   </div>
-                     <div class="col-sm-2 col-xs-12">Очная</div>
-                     <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
 
                  <div class="row">
