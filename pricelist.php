@@ -97,10 +97,45 @@
                 <p>
                  Для помощи студенту и экономии средств мы предлагаем студенту воспользоваться уникальными предложениями. Все пакеты услуг разработаны совместно с партнерской организацией Future Solutions Center, которая уже более 8 лет обслуживает студентов со всего мира.
 
-                Цены в таблице ниже указаны на пакеты VIP-MA, Standart–MA и  Econom-MA для студентов из стран Средней Азии: Узбекистан, Казахстан, Кыргызстан, Таджикистан и Туркмения.
                 </p>
                 
-                <?php require 'blocks/pricetable-ma.php'; ?>
+                <p class="choose-country">Выберите свою страну, чтобы увидеть цены:</p>
+
+                <div class="accordion" id="accordion1">
+                  <div class="accordion-group">
+                    <div class="accordion-heading">
+
+                        <a class="accordion-toggle button button-border-caution" data-toggle="collapse" data-parent="#accordion1" href="#collapseOne">
+                       <!-- Страны -->Узбекистан, Казахстан, Кыргызстан, Таджикистан и Туркмения
+                        </a>
+
+                      </div>
+                      <div id="collapseOne" class="accordion-body collapse">
+                      <div class="accordion-inner">
+
+                        <p>
+                          Цены в таблице ниже указаны на пакеты VIP-MA, Standart–MA и  Econom-MA для студентов из стран Средней Азии: Узбекистан, Казахстан, Кыргызстан, Таджикистан и Туркмения.
+                        </p>
+
+                        <?php require 'blocks/pricetable-ma.php'; ?>
+
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                 <div class="accordion" id="accordion2">
+                  <div class="accordion-group">
+                    <div class="accordion-heading">
+
+                        <a class="accordion-toggle button button-border-caution" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                       <!-- Страны -->Белоруссия, Украина, Молдавия, Грузия, Армения, Азербайджан и Россия
+                        </a>
+
+                      </div>
+                      <div id="collapseTwo" class="accordion-body collapse">
+                      <div class="accordion-inner">
 
                 <p>
                   Цены в таблице ниже указаны на пакеты VIP-EEC, Standart–EEC и  Econom-EEC для студентов из стран Восточной Европы и Южного Кавказа:  Белоруссия, Украина, Молдавия, Грузия, Армения, Азербайджан и Россия.
@@ -108,16 +143,50 @@
 
                 <?php require 'blocks/pricetable-eec.php'; ?>
 
+
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                 <div class="accordion" id="accordion3">
+                  <div class="accordion-group">
+                    <div class="accordion-heading">
+
+                        <a class="accordion-toggle button button-border-caution" data-toggle="collapse" data-parent="#accordion3" href="#collapseThree">
+                       <!-- Страны -->Пакистан, Индия, Бангладеш, Непал, Бутан, Мьянма, Шри-Ланка, Монголия, Китай, Япония, Корея
+                        </a>
+
+                      </div>
+                      <div id="collapseThree" class="accordion-body collapse">
+                      <div class="accordion-inner">
+
                 <p>
                   Цены в таблице ниже указаны на пакеты VIP-SEA, Standart-SEA и  Econom-SEA для студентов из стран Южной Азии и Восточной Азии: Пакистан, Индия, Бангладеш, Непал, Бутан, Мьянма, Шри-Ланка, Монголия, Китай, Япония, Корея.
                 </p>
 
                 <?php require 'blocks/pricetable-sea.php'; ?>
 
+                    </div>
+                    </div>
+                  </div>
+                </div>
+
+                <p>                  
+                  Если вы не желаете покупать пакет VIP, Standart, Econom или Mini вы можете воспользоваться отдельно нашими услугами (см. таблицу ниже).
+                  <!-- Если вы желаете воспользоваться услугами миграционной и визовой поддержки, оказываемые Future Solutions Center отдельно от пакетов услуг VIP, Standart, Econom или Mini, пожалуйста пройдите на сайт FSCenter www.fscenter.eu.  -->
+                </p>
+
+
 
                 <h2>Общий прейскурант Балтийского Центра</h2>
 
                 <?php require 'blocks/pricetable-bc.php'; ?>
+
+
+
+
 
                 
                 

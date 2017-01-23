@@ -19,6 +19,7 @@ em {font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 14px;}
 q {font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 14px;}
 a {color: #575a5b; text-decoration: none;}
 a:hover {text-decoration: none;}
+a:active {text-decoration: none;}
 /*a:hover {color: #d60019; text-decoration: none;}*/
 .dropdown a {color: #575a5b; text-decoration: none;}
 .dropdown a:active {color: #575a5b; text-decoration: none;}
@@ -729,6 +730,18 @@ font-size:110%;
     margin: 2% 0;
 }
 
+.prices .accordion-heading{
+    border: 1px solid red;
+    padding: 2%;
+    width: 100%;
+    text-align: center;
+    font-size: 150%;
+    background: #FFF;
+    border-radius: 6%;
+    display: block;
+    margin: 1%;
+}
+
 .pricetable .col-xs-2 {
 text-align: center;
 }
@@ -749,4 +762,10 @@ text-align: center;
 
 .pricetable-bc .col-xs-4{
     text-align: left;
+}
+
+.choose-country {
+    font-size: 200%;
+    text-align: center;
+    margin: 0;
 }
