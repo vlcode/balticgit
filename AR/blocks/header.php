@@ -50,7 +50,7 @@
                             <li class="divider clear-both"></li>
                   								<li><a href="granti.php">Դրամաշնորհներ</a></li>
                             <!-- <li class="divider clear-both"></li>
-                  								<li><a href="pribaltic.php">О Прибалтике</a></li> -->
+                  								<li><a href="pribaltic.php">О странах Балтии</a></li> -->
 
                             </ul>
 

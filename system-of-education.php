@@ -3,12 +3,12 @@
 <head>
         <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="Узнайте подробней об образовании в Прибалтике: системе и формах обучения, и типах учебных заведений.">
-    <meta name="keywords" content="образование в Прибалтике, обучение в Прибалтике">
+    <meta name="description" content="Узнайте подробней об образовании в странах Балтии: системе и формах обучения, и типах учебных заведений.">
+    <meta name="keywords" content="образование в странах Балтии, обучение в странах Балтии">
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
 
-    <title>Образование в Прибалтике.</title>
+    <title>Образование в странах Балтии.</title>
 
 
 
@@ -78,7 +78,7 @@
          <ol class="breadcrumb">
       <li><a href="index.php">Главная</a></li>
       <li>Студентам</li>
-      <li class="active">Система Высшего Образования в Прибалтике</li>
+      <li class="active">Система Высшего Образования в странах Балтии</li>
 </ol>
      </div>
  </div>
@@ -89,12 +89,12 @@
     <section>
         <div class="container system-of-education">
             <div class="row">
-                <h1>Система Высшего Образования в Прибалтике</h1>
+                <h1>Система Высшего Образования в странах Балтии</h1>
                     <div class="col-sm-7">
-                        <p>Высшие учебные заведения Прибалтики разделяются на два типа:</p>
+                        <p>Высшие учебные заведения стран Балтии разделяются на два типа:</p>
                         <li>Университеты</li>
                         <li>Колледжи</li>
-                        <p><b>В университетах Прибалтики образование трех уровней:</b></p>
+                        <p><b>В университетах стран Балтии образование трех уровней:</b></p>
                         <li>первый уровень - Бакалавр</li>
                         <li>второй уровень - Магистратура</li>
                         <li>третий уровень - Докторантура, Ординатура или Аспирантура</li>
@@ -128,7 +128,7 @@
                     </div>
 
                     <div class="col-sm-5">
-                        <img src="img/system-of-education.png" alt="Образование в Прибалтике" title="Образование в Прибалтике" class="img-responsive col-xs-12 pull-right">
+                        <img src="img/system-of-education.png" alt="Образование в странах Балтии" title="Образование в странах Балтии" class="img-responsive col-xs-12 pull-right">
                     <!--<img src="img/system-education.jpg" alt="System of Education in Baltics" class="img-responsive col-xs-12 pull-right second-picture">
                     <img src="img/system-education.jpg" alt="System of Education in Baltics" class="img-responsive col-xs-12 pull-right">-->
                     </div>

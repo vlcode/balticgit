@@ -78,7 +78,7 @@
          <ol class="breadcrumb">
       <li><a href="index.php">Главная</a></li>
       <li><a href="#">Студентам</a></li>
-      <li class="active">Система Высшего Образования в Прибалтике</li>
+      <li class="active">Система Высшего Образования в странах Балтии</li>
 </ol>
      </div>
  </div> -->

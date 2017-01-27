@@ -46,7 +46,7 @@
 								<li><a href="exams.php">Экзамены</a></li>
 
                                  <li class="divider clear-both"></li>
-                                  <li><a href="system-of-education.php">Система Высшего Образования в Прибалтике</a></li>
+                                  <li><a href="system-of-education.php">Система Высшего Образования в странах Балтии</a></li>
                              <li class="divider clear-both"></li>
                   								<li><a href="universities.php">Университеты</a></li>
                             <li class="divider clear-both"></li>
@@ -54,7 +54,7 @@
                             <li class="divider clear-both"></li>
                                                 <li><a href="pricelist.php">Прейскурант</a></li>                                                
                             <li class="divider clear-both"></li>
-                  								<li><a href="pribaltic.php">О Прибалтике</a></li>
+                  								<li><a href="pribaltic.php">О странах Балтии</a></li>
 
                             </ul>
 

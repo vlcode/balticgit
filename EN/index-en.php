@@ -160,7 +160,7 @@
               </div>
 
               <div class="col-sm-4">
-                  <a href="pribaltic.php"><img src="../img/baltics.png" alt="Прибалтика" class="img-rounded hvr-float-shadow"></a>
+                  <a href="pribaltic.php"><img src="../img/baltics.png" alt="страны Балтии" class="img-rounded hvr-float-shadow"></a>
                   <a href="pribaltic.php"><span class="description hvr-underline-from-left">About Baltics</span></a>
                   <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, beatae, ut. Aut temporibus enim quod facilis a quia, culpa odio autem nesciunt excepturi eum ipsam dolores. Ipsam doloribus eaque corporis?</p> -->
 

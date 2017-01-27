@@ -3,7 +3,7 @@
 <head>
         <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <meta name="description" content="Узнайте о преимуществах дистанционного образования, а так же ознакомьтесь с университетами Прибалтики предоставляющие программы для дистанционного обучения.">
+    <meta name="description" content="Узнайте о преимуществах дистанционного образования, а так же ознакомьтесь с университетами стран Балтии предоставляющие программы для дистанционного обучения.">
     <meta name="keywords" content="дистанционное образование, дистанционное обучение за рубежом, онлайн обучение, дистанционное образование за рубежом, обучение онлайн">
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
@@ -108,7 +108,7 @@
                     </p>
                     
                     <p>
-                        <b>Ознакомьтесь с университетами Прибалтики, где вы можете получить дистанционное образование:</b>
+                        <b>Ознакомьтесь с университетами стран Балтии, где вы можете получить дистанционное образование:</b>
                     </p>
                     <ul>
                         <li>&#8226; <a href="uni-riseba.php" class="red-color">Riseba</a></li>

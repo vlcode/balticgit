@@ -103,7 +103,7 @@
         <div class="item">
             <img src="../img/header_background.jpg" alt="Baltic Center">
             <div class="carousel-caption hidden-xs">
-            <h3>Лучшие университеты Прибалтики <br> <a href="http://baltic-center.eu/universities.php" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka registration2 hidden-sm" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click'])">Каталог</button></a></h3>
+            <h3>Лучшие университеты стран Балтии <br> <a href="http://baltic-center.eu/universities.php" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger knopka registration2 hidden-sm" onClick="_gaq.push(['_trackEvent', 'Knopka_registracii', 'Click'])">Каталог</button></a></h3>
             </div>
         </div>
     </div>
@@ -156,8 +156,8 @@
               </div>
 
               <div class="col-sm-4">
-                  <a href="pribaltic.php"><img src="../img/baltics.png" alt="Прибалтика" class="img-rounded hvr-float-shadow"></a>
-                  <a href="pribaltic.php"><span class="description hvr-underline-from-left">О прибалтике</span></a>
+                  <a href="pribaltic.php"><img src="../img/baltics.png" alt="страны Балтии" class="img-rounded hvr-float-shadow"></a>
+                  <a href="pribaltic.php"><span class="description hvr-underline-from-left">О странах Балтии</span></a>
                   <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, beatae, ut. Aut temporibus enim quod facilis a quia, culpa odio autem nesciunt excepturi eum ipsam dolores. Ipsam doloribus eaque corporis?</p> -->
 
               </div>
