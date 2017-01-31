@@ -275,6 +275,29 @@
   </div>
  </div>
 
+ <!-- ICEF Logo -->
+
+  <section>
+      <div class="container icef">
+          <div class="row">
+
+              <div class="col-sm-8">
+                  <h1>Официально аккредитовано ICEF</h1>
+
+                  <p>Международная независимая организация ICEF подтверждает официальное партнёрство агенства Baltic Center и данной организации. Получить звание партнёра ICEF возможно только лично принимая участие на международных образовательных конференциях и мероприятиях. Данный знак является подтверждением высокого уровня услуг, предоставляемых агенством Baltic Center.
+                  </p>
+      
+              </div>
+
+              <div class="col-sm-4">
+                  <img src="img/icef-logo.png" alt="ICEF" title="ICEF" class="img-responsive col-xs-12">
+
+              </div>
+
+          </div>
+      </div>
+  </section>
+
   <section>
      <div class="container-fluid additional-color">
       <div class="container logos">
