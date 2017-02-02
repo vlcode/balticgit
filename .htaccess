@@ -1,43 +1,45 @@
-AddDefaultCharset utf-8
+#AddDefaultCharset utf-8
 
-DirectoryIndex index.php
+#DirectoryIndex index.php
 
-ErrorDocument 401 http://baltic-center.eu/page-401.php
-ErrorDocument 403 http://baltic-center.eu/page-403.php
-ErrorDocument 404 http://baltic-center.eu/page-404.php
-ErrorDocument 500 http://baltic-center.eu/page-500.php
+#ErrorDocument 401 http://baltic-center.eu/page-401.php
+#ErrorDocument 403 http://baltic-center.eu/page-403.php
+#ErrorDocument 404 http://baltic-center.eu/page-404.php
+#ErrorDocument 500 http://baltic-center.eu/page-500.php
 
-RewriteEngine On
+#RewriteEngine On
 
 
-RewriteCond %{REQUEST_URI} ^\/$
-RewriteCond %{HTTP_HOST} ^www\.(.*)$
-RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+#RewriteCond %{REQUEST_URI} ^\/$
+#RewriteCond %{HTTP_HOST} ^www\.(.*)$
+#RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
 
-RewriteCond %{REQUEST_URI} !\?
-RewriteCond %{REQUEST_URI} !\&
-RewriteCond %{REQUEST_URI} !\=
-RewriteCond %{REQUEST_URI} !\.
-RewriteCond %{REQUEST_URI} \/$
-RewriteCond %{HTTP_HOST} ^www\.(.*)$
-RewriteRule ^(.*)\/$ http://%1/$1 [L,R=301]
+#RewriteCond %{REQUEST_URI} !\?
+#RewriteCond %{REQUEST_URI} !\&
+#RewriteCond %{REQUEST_URI} !\=
+#RewriteCond %{REQUEST_URI} !\.
+#RewriteCond %{REQUEST_URI} \/$
+#RewriteCond %{HTTP_HOST} ^www\.(.*)$
+#RewriteRule ^(.*)\/$ http://%1/$1 [L,R=301]
 
-RewriteCond %{REQUEST_URI} !\?
-RewriteCond %{REQUEST_URI} !\&
-RewriteCond %{REQUEST_URI} !\=
-RewriteCond %{REQUEST_URI} !\.
-RewriteCond %{REQUEST_URI} !\/$
-RewriteCond %{HTTP_HOST} ^www\.(.*)$
-RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
+#RewriteCond %{REQUEST_URI} !\?
+#RewriteCond %{REQUEST_URI} !\&
+#RewriteCond %{REQUEST_URI} !\=
+#RewriteCond %{REQUEST_URI} !\.
+#RewriteCond %{REQUEST_URI} !\/$
+#RewriteCond %{HTTP_HOST} ^www\.(.*)$
+#RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
 
-RewriteCond %{REQUEST_URI} !\?
-RewriteCond %{REQUEST_URI} !\&
-RewriteCond %{REQUEST_URI} !\=
-RewriteCond %{REQUEST_URI} !\.
-RewriteCond %{REQUEST_URI} \/$
-RewriteCond %{HTTP_HOST} ^([^www].*)$
-RewriteRule ^(.*)\/$ http://%1/$1 [L,R=301]
+#RewriteCond %{REQUEST_URI} !\?
+#RewriteCond %{REQUEST_URI} !\&
+#RewriteCond %{REQUEST_URI} !\=
+#RewriteCond %{REQUEST_URI} !\.
+#RewriteCond %{REQUEST_URI} \/$
+#RewriteCond %{HTTP_HOST} ^([^www].*)$
+#RewriteRule ^(.*)\/$ http://%1/$1 [L,R=301]
 
-RewriteCond %{REQUEST_URI} /index.php
-RewriteCond %{QUERY_STRING} ^\z
-RewriteRule ^(.*)$ http://baltic-center.eu/? [R=301,L]
+#RewriteCond %{REQUEST_URI} /index.php
+#RewriteCond %{QUERY_STRING} ^\z
+#RewriteRule ^(.*)$ http://baltic-center.eu/? [R=301,L]
+
+
