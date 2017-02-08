@@ -371,6 +371,25 @@
                 </div>
                 </div>
 
+                <!-- Row -->
+                <div class="row">
+                <div class="col-xs-4">
+                  Трансфер с аэропорта до места жительства
+                </div>
+                <div class="col-xs-2">
+                  <i class="fa fa-check" aria-hidden="true"></i>
+                </div>
+                <div class="col-xs-2">
+                  <i class="fa fa-check" aria-hidden="true"></i>
+                </div>
+                <div class="col-xs-2">
+                  
+                </div>
+                <div class="col-xs-2">
+                  
+                </div>
+                </div>
+
 
                 <!-- Row -->
                 <div class="row">
@@ -698,10 +717,10 @@
                   Цена за весь пакет:
                 </div>
                 <div class="col-xs-2">
-                  879 EUR
+                  899 EUR
                 </div>
                 <div class="col-xs-2">
-                  349 EUR
+                  369 EUR
                 </div>
                 <div class="col-xs-2">
                   249 EUR

@@ -375,6 +375,20 @@
                 
                 </div>
 
+                 <!-- Row -->
+                <div class="row">
+                <div class="col-xs-4">
+                  Трансфер с аэропорта до места жительства
+                </div>
+                <div class="col-xs-1">
+                  1
+                </div>
+                <div class="col-xs-2">
+                  20
+                </div>
+                
+                </div>
+
                 
 
 
