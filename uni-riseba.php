@@ -69,8 +69,8 @@
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/36592180" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->    
-    
+<!-- /Yandex.Metrika counter -->
+
 <?php require 'blocks/header.php'; ?>
 
 <div class="contaner-fluid additional-color">
@@ -169,7 +169,7 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Аудиовизуальное медиа искусство	</div>
                      <div class="col-sm-2 col-xs-12">4 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2700 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 2900 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
@@ -177,7 +177,7 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Бизнес психология	</div>
                      <div class="col-sm-2 col-xs-12">3 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2200 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 2300 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
@@ -185,31 +185,31 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Бизнес психология	</div>
                      <div class="col-sm-2 col-xs-12">3,5 года</div>
-                     <div class="col-sm-2 col-xs-12"> 1500 EUR   </div>
-                     <div class="col-sm-2 col-xs-12">Очная</div>
+                     <div class="col-sm-2 col-xs-12"> 1700 EUR   </div>
+                     <div class="col-sm-2 col-xs-12">Дистанционное обучение</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
 
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Европейский бизнес	</div>
                      <div class="col-sm-2 col-xs-12">4 года</div>
-                     <div class="col-sm-2 col-xs-12"> 3600 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 3950 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
 
                  <div class="row">
-                     <div class="col-sm-4 col-xs-12">Э-бизнес	</div>
+                     <div class="col-sm-4 col-xs-12">Управление бизнесом в дигитальной среде	</div>
                      <div class="col-sm-2 col-xs-12">4 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2200 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 2300 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
 
                  <div class="row">
-                     <div class="col-sm-4 col-xs-12">Э-бизнес	</div>
+                     <div class="col-sm-4 col-xs-12">Управление бизнесом в дигитальной среде</div>
                      <div class="col-sm-2 col-xs-12">4,5 года</div>
-                     <div class="col-sm-2 col-xs-12"> 1500 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 1700 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Дистанционное обучение</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
@@ -217,7 +217,7 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Менеджмент общественных отношений и рекламы	</div>
                      <div class="col-sm-2 col-xs-12">4 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2200 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 2300 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
@@ -225,7 +225,7 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Управление предпринимательством	</div>
                      <div class="col-sm-2 col-xs-12">4 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2200 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 2300 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
@@ -233,7 +233,7 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Управление предпринимательством	</div>
                      <div class="col-sm-2 col-xs-12">4,5 года</div>
-                     <div class="col-sm-2 col-xs-12"> 1500 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 1700 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Дистанционное обучение</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
@@ -246,7 +246,7 @@
                  <div class="row margin-top-2">
                      <div class="col-sm-4 col-xs-12">Аудиовизуальное медиа искусство</div>
                      <div class="col-sm-2 col-xs-12">2 года</div>
-                     <div class="col-sm-2 col-xs-12"> 3300 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 3400 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
@@ -254,7 +254,7 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Менеджмент общественных отношений</div>
                      <div class="col-sm-2 col-xs-12">2 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2850 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 2400 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
@@ -262,7 +262,7 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Riseba MBA</div>
                      <div class="col-sm-2 col-xs-12">2 года</div>
-                     <div class="col-sm-2 col-xs-12"> 4400 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 5000 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
@@ -270,15 +270,15 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Международный бизнес</div>
                      <div class="col-sm-2 col-xs-12">2 года</div>
-                     <div class="col-sm-2 col-xs-12"> 3300 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 3900 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
 
                  <div class="row">
-                     <div class="col-sm-4 col-xs-12">Управление проектами</div>
+                     <div class="col-sm-4 col-xs-12">Стратегический менеджмент бизнеса</div>
                      <div class="col-sm-2 col-xs-12">2 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2850 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 2900 EUR </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
