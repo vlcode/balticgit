@@ -260,7 +260,7 @@
                  </div>
 
                  <div class="row">
-                     <div class="col-sm-4 col-xs-12">Riseba MBA</div>
+                     <div class="col-sm-4 col-xs-12">MBA</div>
                      <div class="col-sm-2 col-xs-12">2 года</div>
                      <div class="col-sm-2 col-xs-12"> 5000 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
@@ -269,7 +269,7 @@
 
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Международный бизнес</div>
-                     <div class="col-sm-2 col-xs-12">2 года</div>
+                     <div class="col-sm-2 col-xs-12">1,5/2 года</div>
                      <div class="col-sm-2 col-xs-12"> 3900 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
@@ -277,31 +277,31 @@
 
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Стратегический менеджмент бизнеса</div>
-                     <div class="col-sm-2 col-xs-12">2 года</div>
+                     <div class="col-sm-2 col-xs-12">1,1 года</div>
                      <div class="col-sm-2 col-xs-12"> 2900 EUR </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
-                     <div class="col-sm-2 col-xs-12">Английский  </div>
+                     <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
 
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Международные финансы</div>
-                     <div class="col-sm-2 col-xs-12">2 года</div>
-                     <div class="col-sm-2 col-xs-12"> 3300 EUR   </div>
+                     <div class="col-sm-2 col-xs-12">1,5/2 года</div>
+                     <div class="col-sm-2 col-xs-12"> 3900 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
 
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Управление персоналом</div>
-                     <div class="col-sm-2 col-xs-12">2 года</div>
+                     <div class="col-sm-2 col-xs-12">1,1 года</div>
                      <div class="col-sm-2 col-xs-12"> 2850 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
-                     <div class="col-sm-2 col-xs-12">Английский  </div>
+                     <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
 
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Управление в сфере здравоохранения</div>
-                     <div class="col-sm-2 col-xs-12">2 года</div>
+                     <div class="col-sm-2 col-xs-12">1,5/2 года</div>
                      <div class="col-sm-2 col-xs-12"> 3500 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
@@ -309,17 +309,41 @@
 
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Управление предпринимательством</div>
-                     <div class="col-sm-2 col-xs-12">1,5 года</div>
-                     <div class="col-sm-2 col-xs-12"> 2300 EUR   </div>
+                     <div class="col-sm-2 col-xs-12">2 года</div>
+                     <div class="col-sm-2 col-xs-12"> 2400 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
 
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Управление предпринимательством</div>
-                     <div class="col-sm-2 col-xs-12">2 года</div>
-                     <div class="col-sm-2 col-xs-12"> 1550 EUR   </div>
+                     <div class="col-sm-2 col-xs-12">2,5 года</div>
+                     <div class="col-sm-2 col-xs-12"> 1700 EUR   </div>
                      <div class="col-sm-2 col-xs-12">	Дистанционное обучение</div>
+                     <div class="col-sm-2 col-xs-12">Русский  </div>
+                 </div>
+
+                 <div class="row">
+                     <div class="col-sm-4 col-xs-12">Архитектура</div>
+                     <div class="col-sm-2 col-xs-12">2 года</div>
+                     <div class="col-sm-2 col-xs-12"> 6000 EUR   </div>
+                     <div class="col-sm-2 col-xs-12">	Очное</div>
+                     <div class="col-sm-2 col-xs-12">Английский  </div>
+                 </div>
+
+                 <div class="row">
+                     <div class="col-sm-4 col-xs-12">Управление проектом</div>
+                     <div class="col-sm-2 col-xs-12">1,5/2 года</div>
+                     <div class="col-sm-2 col-xs-12"> 3800 EUR   </div>
+                     <div class="col-sm-2 col-xs-12">	Очное</div>
+                     <div class="col-sm-2 col-xs-12">Английский  </div>
+                 </div>
+
+                 <div class="row">
+                     <div class="col-sm-4 col-xs-12">Психология управления и супервизия</div>
+                     <div class="col-sm-2 col-xs-12">2 года</div>
+                     <div class="col-sm-2 col-xs-12"> 2250 EUR   </div>
+                     <div class="col-sm-2 col-xs-12">	Очное</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
 
@@ -332,7 +356,7 @@
                  <div class="row margin-top-2">
                      <div class="col-sm-4 col-xs-12">Управление бизнесом</div>
                      <div class="col-sm-2 col-xs-12">3 года</div>
-                     <div class="col-sm-2 col-xs-12"> 3900 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 4235 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
@@ -340,7 +364,7 @@
                  <div class="row">
                      <div class="col-sm-4 col-xs-12">Управление бизнесом</div>
                      <div class="col-sm-2 col-xs-12">3 года</div>
-                     <div class="col-sm-2 col-xs-12"> 3900 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 4235 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Русский  </div>
                  </div>
