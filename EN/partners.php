@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
           <meta charset="UTF-8">
-	
+
 	<meta property="og:title" content="Baltic Center - Do you want to study abroad?" />
-        <meta property="og:description" content="Education ­ a long­term investment in your future. It means that the choice of the University should be done very seriously and at this point, study abroad is very popular." /> 
+        <meta property="og:description" content="Education ­ a long­term investment in your future. It means that the choice of the University should be done very seriously and at this point, study abroad is very popular." />
         <meta property="og:image" content="http://baltic-center.eu/img/header_background.jpg" />
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <meta name="description" content="Описание">
@@ -108,7 +108,7 @@
                     <div class="col-xs-4"><img src="../img/logos/priority_120px/Venta.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>Вентспилсский Университет</p>--></div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-4"><img src="../img/logos/priority_120px/VA.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>Видземский Университет</p>--></div>
+                    <div class="col-xs-4"><img src="../img/logos/priority_120px/RTTEMA.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>RTTEMA</p>--></div>
                     <div class="col-xs-4"><img src="../img/logos/priority_120px/EKA.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>Высшая школа экономики и культуры	</p>--></div>
                     <div class="col-xs-4"><img src="../img/logos/priority_120px/RTA.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>Резекненская Академия Технологий</p>--></div>
                 </div>
@@ -127,11 +127,7 @@
                     <div class="col-xs-4"><img src="../img/logos/priority_120px/Rai.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>Рижский Институт Аэронавигации</p>--></div>
                     <div class="col-xs-4"><img src="../img/logos/priority_120px/ATG.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>Air Training Group</p>--></div>
                 </div>
-                <div class="row">
-                    <div class="col-xs-4"><img src="../img/logos/priority_120px/RTTEMA.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>RTTEMA</p>--></div>
-                    <!--<div class="col-xs-4"><img src="../img/logos/priority_120px/Rai.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>Рижский Институт Аэронавигации</p>--></div>
-                    <div class="col-xs-4"><img src="../img/logos/priority_120px/ATG.png" alt="" class="img-responsive hvr-float-shadow"><!--<p>Air Training Group</p>--></div>
-                </div>
+                
 
 
 

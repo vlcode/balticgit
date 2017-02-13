@@ -68,8 +68,8 @@
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/36592180" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->    
-    
+<!-- /Yandex.Metrika counter -->
+
 <?php require 'blocks/header.php'; ?>
 <div class="contaner-fluid additional-color">
 <!--  Breadcrumbs-->
@@ -108,7 +108,7 @@
                     <div class="col-xs-4"><img src="img/logos/priority_120px/Venta.png" alt="" class="img-responsive hvr-float-shadow"><p>Вентспилсский Университет</p></div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-4"><img src="img/logos/priority_120px/VA.png" alt="" class="img-responsive hvr-float-shadow"><p>Видземский Университет</p></div>
+                    <div class="col-xs-4"><img src="img/logos/priority_120px/RTTEMA.png" alt="" class="img-responsive hvr-float-shadow"><p>RTTEMA</p></div>
                     <div class="col-xs-4"><img src="img/logos/priority_120px/EKA.png" alt="" class="img-responsive hvr-float-shadow"><p>Высшая школа экономики и культуры	</p></div>
                     <div class="col-xs-4"><img src="img/logos/priority_120px/RTA.png" alt="" class="img-responsive hvr-float-shadow"><p>Резекненская Академия Технологий</p></div>
                 </div>
@@ -126,11 +126,6 @@
                     <div class="col-xs-4"><img src="img/logos/not_priority_120px/RTU.png" alt="" class="img-responsive hvr-float-shadow"><p>Рижский Технический Университет</p></div>
                     <div class="col-xs-4"><img src="img/logos/priority_120px/Rai.png" alt="" class="img-responsive hvr-float-shadow"><p>Рижский Институт Аэронавигации</p></div>
                     <div class="col-xs-4"><img src="img/logos/priority_120px/ATG.png" alt="" class="img-responsive hvr-float-shadow"><p>Air Training Group</p></div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-4"><img src="img/logos/priority_120px/RTTEMA.png" alt="" class="img-responsive hvr-float-shadow"><p>RTTEMA</p></div>
-                    <!--<div class="col-xs-4"><img src="img/logos/priority_120px/Rai.png" alt="" class="img-responsive hvr-float-shadow"><p>Рижский Институт Аэронавигации</p></div>
-                    <div class="col-xs-4"><img src="img/logos/priority_120px/ATG.png" alt="" class="img-responsive hvr-float-shadow"><p>Air Training Group</p></div>-->
                 </div>
 
 

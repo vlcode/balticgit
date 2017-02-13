@@ -810,16 +810,14 @@ $('body,html').animate({scrollTop:0},800);
             </div>
 
              <!--           31 row -->
-            <div class="row">
+            <!-- <div class="row">
                <div class="col-md-5"><a href="uni-vidzm.php" class="link-universities hvr-float-shadow"><img src="img/unis/unis-va.png" alt="Видземский Университет" class="img-thumbnail  col-xs-12"></a></div>
                <div class="col-md-7 general-uni-info">
-                         <!--    Header university              -->
                    <div class="col-xs-9"><h2>Видземский Университет</h2></div>
                    <div class="col-xs-3"><img src="img/logos/priority_120px/VA.png" alt="Видземский Университет" class="img-responsive col-xs-12 pull-right"></div>
                    <div class="clear-both"></div>
                    <div class="hr1"></div>
 
-        <!--    Body university               -->
 
                 <span class="bold"> Тип учебного заведения:</span> Государственный Университет <br><br>
                 <span class="bold"> Расположение: </span>Валмиера, Латвия<br><br>
@@ -830,7 +828,7 @@ $('body,html').animate({scrollTop:0},800);
                   <a href="uni-vidzm.php" class="link-universities hvr-reveal">Подробнее</a>
 
                </div>
-            </div>
+            </div> -->
 
              <!--           32 row -->
             <div class="row">
@@ -1269,7 +1267,7 @@ $('body,html').animate({scrollTop:0},800);
 
                </div>
             </div>
-            
+
             <!--     51   row -->
             <div class="row">
                 <div class="col-md-5"><a href="uni-baatraining.php" class="link-universities hvr-float-shadow"><img src="img/unis/695x450.jpg" alt="Эстонский университет прикладных наук по предпринимательству Майнор" class="img-thumbnail  col-xs-12"></a></div>
