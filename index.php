@@ -7,6 +7,7 @@
     <meta name="keywords" content="обучение за рубежом, образование за рубежом, учеба за границей, учеба за рубежом, обучение за рубежом, высшее образование за рубежом, высшее образование за границей">
     <meta name="google-site-verification" content="S386zaI2q9nFsR9pmcPC1nt3toyeSqg1xFdgyrWleA8" />
     <meta name="google-site-verification" content="xHMOb3cAs40Fa2r6LM5jKQyKLoZRRVaXkiSIKVDUoBk" />
+    <meta name="yandex-verification" content="513e02f66b674157" />
 
     <title>Обучение за рубежом вполне реально вместе с Baltic Center</title>
 
@@ -286,7 +287,7 @@
 
                   <p>Международная независимая организация ICEF подтверждает официальное партнёрство агенства Baltic Center и данной организации. Получить звание партнёра ICEF возможно только лично принимая участие на международных образовательных конференциях и мероприятиях. Данный знак является подтверждением высокого уровня услуг, предоставляемых агенством Baltic Center.
                   </p>
-      
+
               </div>
 
               <div class="col-sm-4">
