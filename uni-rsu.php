@@ -69,8 +69,8 @@
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/36592180" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->    
-    
+<!-- /Yandex.Metrika counter -->
+
 <?php require 'blocks/header.php'; ?>
 
 <div class="contaner-fluid additional-color">
@@ -113,9 +113,9 @@
                     <img src="img/unis/rsu4.jpg" alt="RSU" class="img-thumbnail col-xs-12">
                 </a>
                </div> -->
-               
+
                <!-- Меню табов -->
-               
+
                <ul class="nav nav-tabs">
                  <li class="active"><a data-toggle="tab" href="#about-uni">Об университете</a></li>
                  <li><a data-toggle="tab" href="#programs">Учебные программы</a></li>
@@ -154,9 +154,9 @@
                  </div>
 
                  <div class="row margin-top-2">
-                     <div class="col-sm-4 col-xs-12">Медицинский</div>
+                     <div class="col-sm-4 col-xs-12">Медицина</div>
                      <div class="col-sm-2 col-xs-12">6 года</div>
-                     <div class="col-sm-2 col-xs-12"> 9000 EUR   </div>
+                     <div class="col-sm-2 col-xs-12"> 12 000 EUR   </div>
                      <div class="col-sm-2 col-xs-12">Очная</div>
                      <div class="col-sm-2 col-xs-12">Английский  </div>
                  </div>
